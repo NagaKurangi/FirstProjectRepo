@@ -2,7 +2,11 @@ class TestCode
 {
 	void m1()
 	{
-		System.out.println("TestCode");
+		System.out.println("TestCode....m1()");
+	}
+	void m2()
+	{
+		System.out.println("TestCode....m2()");
 	}
 }
 class A
